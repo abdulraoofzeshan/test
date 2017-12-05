@@ -1,4 +1,5 @@
-	chdir	-	Change current directory (cd)
+Adding a comment
+	chdir	-       Change current directory (cd)
 close
 	curdir	-	Print current dir	
 	environ - 	Get environment details(OS and other info)
