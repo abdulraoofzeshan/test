@@ -1,5 +1,5 @@
 #write a program to find prime numbers from 2 to 100
-lower=2
+Lower=2
 upper=100
 print('The prime numbers between 2 and 100')
 for num in range(lower,upper ):
